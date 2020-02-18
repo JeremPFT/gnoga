@@ -1,0 +1,23 @@
+This is ZBX_TOMCAT, Version .*
+Configuration error:  Must be attached to a Context
+Authorizing connector provided user [mrohan] via Tomcat Realm
+Protocol handler resume failed
+Exception while attempting to add an entry to the access log
+Path ../example.dat does not start with a "/" character
+Exception thrown by attributes event listener
+Deploy directory or WAR file located on server
+FAIL - War file "../example.dat" cannot be uploaded if context is defined in server.xml
+JAAS LoginContext created for username "mrohan"
+Principal "mrohan" is a valid user class. We will use this as the user Principal.
+An exception occurs when running the PrivilegedExceptionAction block.
+Failed to parse value [mask] as a valid umask.
+JAXP initialization failed
+The requested resource (resource) is not available
+The required Server component failed to start so Tomcat is unable to start.
+alt-dd file ../example.dat not found
+User database has been configured to be read only. Changes cannot be saved
+Null or zero length role name specified. The role will be ignored.
+Web Application Manifest
+The destroy() method was called on component [component] after destroy() had already been called. The second call will be ignored.
+Exception performing insert access entry
+Failed to open access log file [../example.dat]

@@ -1,0 +1,20 @@
+This is JENKINS, Version .*
+Les espaces ne peuvent plus être utilisés comme séparateurs. Merci d'utiliser maintenant ',' comme séparateur à la place.
+'This' ne correspond à rien, mais 'That' oui. Peut-être est-ce cela que vous voulez dire?
+'This' ne correspond à rien, même si 'That' existe
+'This' ne correspond à rien : 'That' existe mais pas 'Other'
+'This' ne correspond à rien
+'This' ne correspond à rien : même 'That' n'existe pas
+L'utilisation des Wildcard n'est pas autorisée ici
+'This' n'est pas un fichier
+'This' n'est pas un répertoire
+Aucun fichier correspondant : 'This'
+Aucun répertoire correspondant : 'This'
+Le plugin This ne supporte pas le chargement dynamique. Jenkins doit être redémarré pour que la mise à jour soit effective.
+Le plugin This est déjà installé. Jenkins doit être redémarré pour que la mise à jour soit effective.
+'~' n'est supporté que sur les shells Unix.
+Gestion des plugins
+Le port n'est pas un nombre
+Le port n'est pas dans l'intervalle de 10 à 100
+A propos de Jenkins
+Afficher les informations de version et de licence

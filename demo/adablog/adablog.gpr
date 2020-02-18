@@ -1,0 +1,19 @@
+with "settings.gpr";
+with "gnoga.gpr";
+
+project AdaBlog is
+
+   for Object_Dir use Settings.Obj_Dir;
+   for Exec_Dir use Settings.Exe_Dir;
+   for Main use ("adablog-main.adb");
+   for Create_Missing_Dirs use Settings'Create_Missing_Dirs;
+
+   package Builder is
+      for Executable ("adablog-main.adb") use "adablog";
+   end Builder;
+
+   package Compiler renames Settings.Compiler;
+   package Binder renames Settings.Binder;
+   package Linker renames Settings.Linker;
+
+end AdaBlog;
